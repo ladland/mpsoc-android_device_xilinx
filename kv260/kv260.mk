@@ -35,7 +35,7 @@ PRODUCT_MANUFACTURER := AMD
 KERNEL_SRC_DIR ?= linux-xlnx
 KERNEL_CFG_NAME ?= xilinx_zynqmp_android_defconfig
 KERNEL_DTS_NAMES ?= \
-	zynqmp-kv260.dts
+	zynqmp-sck-kv-g-revB.dts
 
 # Check for availability of kernel source
 ifneq ($(wildcard $(KERNEL_SRC_DIR)/Makefile),)
