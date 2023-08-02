@@ -16,3 +16,7 @@
 
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/ultrazed_eg_iocc.mk
+
+COMMON_LUNCH_CHOICES := \
+   ultrazed_eg_iocc-userdebug \
+   ultrazed_eg_iocc-eng

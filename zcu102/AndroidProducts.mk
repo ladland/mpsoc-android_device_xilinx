@@ -19,3 +19,9 @@
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/zcu102.mk \
 	$(LOCAL_DIR)/zcu102_ozzy.mk
+
+COMMON_LUNCH_CHOICES := \
+	zcu102-userdebug \
+ 	zcu102-eng \
+ 	zcu102_ozzy-userdebug \
+ 	zcu102_ozzy-eng \

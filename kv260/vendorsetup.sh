@@ -12,5 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-add_lunch_combo kv260-userdebug
-add_lunch_combo kv260-eng
+

@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/kv260.mk
+
+COMMON_LUNCH_CHOICES := \
+	 kv260-userdebug \
+     kv260-eng
+
