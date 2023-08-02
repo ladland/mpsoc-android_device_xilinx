@@ -17,7 +17,7 @@
 # Primary Arch
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
-TARGET_CPU_VARIANT := generic
+TARGET_CPU_VARIANT := cortex-a53
 TARGET_CPU_ABI := arm64-v8a
 
 # Secondary Arch
